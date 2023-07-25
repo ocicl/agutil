@@ -1,0 +1,10 @@
+* agutil
+
+A collection of Common Lisp utilities
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/agutil.git   |
+| commit  | 9967456  |
+| systems | agutil |
+|---------+-------------------------------------------|
+
